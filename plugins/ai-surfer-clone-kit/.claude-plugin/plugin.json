@@ -1,0 +1,11 @@
+{
+  "name": "ai-surfer-clone-kit",
+  "displayName": "The AI Surfer Clone Kit",
+  "version": "0.5.0",
+  "description": "A friendly, step-by-step guide to your own voice clone and video clone. It builds your brain from your website, documents and videos plus a short voice interview, then sets up your voice in ElevenLabs and your video twin in HeyGen, in your own accounts.",
+  "author": {
+    "name": "The AI Surfer"
+  },
+  "license": "UNLICENSED",
+  "icon": "./assets/icon.png"
+}

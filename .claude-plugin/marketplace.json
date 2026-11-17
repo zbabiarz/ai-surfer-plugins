@@ -1,0 +1,15 @@
+{
+  "name": "the-ai-surfer",
+  "description": "Plugins from The AI Surfer: guided, fun tools that make AI agents easy for business owners.",
+  "owner": {
+    "name": "The AI Surfer",
+    "email": "hello@theaisurfer.com"
+  },
+  "plugins": [
+    {
+      "name": "ai-surfer-clone-kit",
+      "source": "./plugins/ai-surfer-clone-kit",
+      "description": "The AI Surfer Clone Kit: a friendly, step-by-step guide to your own voice clone and video clone inside Claude. Needs a Clone Kit account."
+    }
+  ]
+}
