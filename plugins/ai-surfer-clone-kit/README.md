@@ -34,7 +34,7 @@ never asks for passwords or keys: you sign in on each company's own page.
 1. Install the plugin in the Claude desktop app.
 2. Add the Clone Kit connection to your Claude account: **Customize → Connectors → + Add → Add
    custom connector**, name it **Clone Kit**, address `https://clonekit.theaisurfershowroom.com/mcp`,
-   then **Continue** and type the access password from your welcome email. (The kit walks you
+   then **Continue** and type the access password we sent you. (The kit walks you
    through this too.) When a card sends a message (like at the end of the interview), Claude
    puts it in your message box: press Enter.
 3. Open the app in **Code** mode (the interview card can use your microphone there) on any

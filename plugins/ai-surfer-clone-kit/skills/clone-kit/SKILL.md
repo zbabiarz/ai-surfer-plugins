@@ -11,6 +11,6 @@ The kit's step-by-step guide lives on The AI Surfer's server, not in this plugin
    `mcp__claude_ai_Clone_Kit__get_kit_guide`) and follow it exactly. It says which part to get next.
 2. If the Clone Kit connection isn't there, say so in one plain line and give these steps: in
    Claude, Customize -> Connectors -> + Add -> Add custom connector; name it **Clone Kit**, address
-   `https://clonekit.theaisurfershowroom.com/mcp`; click Continue and type the access password from the
-   welcome email; then start a new Code session in this folder and type `/ai-surfer-clone-kit:start`.
+   `https://clonekit.theaisurfershowroom.com/mcp`; click Continue and type the access password we sent
+   you; then start a new Code session in this folder and type `/ai-surfer-clone-kit:start`.
 3. Never guess the kit's steps or rules without the guide, and never ask for the password.

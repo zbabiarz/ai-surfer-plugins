@@ -11,7 +11,7 @@ one per line:
 
 1. In Claude, open **Customize**, then **Connectors**, then **+ Add**, then **Add custom connector**.
 2. Name it **Clone Kit** and paste this address: `https://clonekit.theaisurfershowroom.com/mcp`
-3. Click **Continue** and type the access password from your welcome email.
+3. Click **Continue** and type the access password we sent you.
 4. Start a new Code session in this same folder and type `/ai-surfer-clone-kit:start`.
 
 Then stop and wait. Never ask them to tell you the password.
